@@ -3,7 +3,7 @@
 This repository contains code associated with the manuscript:
 
 **Molecularly-guided spatial proteomics captures single-cell identity of the healthy and diseased nervous system**  
-*DOI: [10.1101/2025.02.10.637505](https://www.biorxiv.org/content/10.1101/2025.02.10.637505v2)*
+*DOI: [10.1101/2025.02.10.637505](https://www.biorxiv.org/content/10.1101/2025.02.10.637505v2)*  
 **Authors:**  
 Sayan Dutta#, Marion Pang#, Gerard M. Coughlin, Sirisha Gudavalli,  
 Michael L. Roukes, Tsui-Fen Chou, Viviana Gradinaru*
