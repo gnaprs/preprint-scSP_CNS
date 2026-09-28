@@ -3,7 +3,7 @@
 This repository contains code associated with the manuscript:
 
 **Molecularly-guided spatial proteomics captures single-cell identity of the healthy and diseased nervous system**  
-*<Journal submission / bioRxiv DOI to be added>*  
+*DOI: [10.1101/2025.02.10.637505](https://www.biorxiv.org/content/10.1101/2025.02.10.637505v2)*
 **Authors:**  
 Sayan Dutta#, Marion Pang#, Gerard M. Coughlin, Sirisha Gudavalli,  
 Michael L. Roukes, Tsui-Fen Chou, Viviana Gradinaru*
@@ -25,19 +25,21 @@ The analyses rely on processed proteomics and transcriptomics data deposited in 
   Transcriptomics-informed analyses and cross-omics comparisons.
 
 - `data/`  
-  Directory containing processed input files required to run the notebooks.
+  Directory containing processed input files required to run the notebooks. *At the time of this preprint and ongoing peer review, the processed proteomics reports are available under controlled access through the repository’s reviewer mechanism. Researchers requiring access during this period may contact the corresponding authors to request the temporary access credentials.*
 
 Paths to downloaded data may need to be adjusted at the top of each notebook.
 
 ## Data availability
 
 Transcriptomic reference data were obtained from the Allen Brain Atlas and Dropviz, as described in the manuscript.
-Processed proteomics and transcriptomics reports (`.tsv`, `.csv`, `.parquet`) should be downloaded from:
+Processed proteomics and transcriptomics reports (`.tsv`, `.csv`, `.parquet`) are found in the `data/` folder of this repository.
+
+Raw data can be downloaded from:
 
 - **MassIVE**: MSV000100704  
 - **ProteomeXchange**: PXD074008  
 
-Only processed reports are required; raw MS files are not needed to reproduce figures. All report files should be placed in a local directory that will be referenced in the notebooks (paths are documented in the notebooks).
+For running the analysis within this directory, only processed reports found in `data/` are required; the raw MS files are not needed to reproduce figures. All report files should be placed in a local directory that will be referenced in the notebooks (paths are documented in the notebooks).
 
 At the time of this preprint and ongoing peer review, the processed proteomics reports are available under controlled access through the repository’s reviewer mechanism. Researchers requiring access during this period may contact the corresponding authors to request the temporary access credentials.
 
