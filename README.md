@@ -19,10 +19,13 @@ The analyses rely on processed proteomics and transcriptomics data deposited in 
 ## Contents
 
 - `analysis_scSP_manuscript.ipynb`  
-  Generates proteomics-based figures and analyses
+  Generates proteomics-based figures and analyses from the original preprint.
 
 - `analysis_scSP_manuscript_transcriptomics.ipynb`  
   Transcriptomics-informed analyses and cross-omics comparisons.
+
+- `analysis_scSP_revision.ipynb`  
+  Generates proteomics-based figures and analyses from the revised manuscript.
 
 - `data/`  
   Directory containing processed input files required to run the notebooks. *At the time of this preprint and ongoing peer review, the processed proteomics reports are available under controlled access through the repository’s reviewer mechanism. Researchers requiring access during this period may contact the corresponding authors to request the temporary access credentials.*
